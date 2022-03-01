@@ -1,9 +1,9 @@
 # Data_Structure
 ## Introduction
-I am working on this repo to collect DS using C++ materials like problems , source codes , materials to study and waiting your contributions on it 
-## Lectures Materials
+I am working on this repo to collect DS using C++ materials like problems , source codes , materials to study and waiting your contributions on it
+## Lectures Materials (2024)
 [Lecture Materilas](https://drive.google.com/drive/folders/1ys7b1vqzhiCk4feT5TS8FqRi9QfZv611?fbclid=IwAR2h4LjZ_T-0_k3DLqE3878kh0k4a1aRgH5_6OB0H_Cmjh3tFuXxDGLWmhE)<br />
-## Labs Materials
+## Labs Materials (2024)
 [Labs Materials](https://drive.google.com/drive/folders/19I5HX-ShOdYz4fRDXdUjPjTwL84tfim_?fbclid=IwAR2h4LjZ_T-0_k3DLqE3878kh0k4a1aRgH5_6OB0H_Cmjh3tFuXxDGLWmhE)<br />
 
 ## Source codes
@@ -17,4 +17,7 @@ I am working on this repo to collect DS using C++ materials like problems , sour
 ●[Sheet 3 on Linked List](https://leetcode.com/list/9delnpat/)<br />
 ●[Sheet 4 on binary search trees (BSTs)](https://leetcode.com/list/9dcfe4re/)<br />
 ●[Sheet 5 ](https://leetcode.com/list/90w00rk6/)<br />
+## Omar site
+*note : materials on omar site may be different from this year*<br />
+[Fcis 2023 ](https://fcis2023.me/ds.html)<br />
 ## Any announcment
