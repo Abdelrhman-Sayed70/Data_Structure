@@ -2,7 +2,8 @@
 ## Introduction
 I am working on this repo to collect DS using C++ materials like problems , source codes , materials to study and waiting your contributions on it 
 ## Lectures  
-[Find all Lectures from here](https://github.com/Abdelrhman-Sayed70/Data_Structure/tree/main/Lectures)
+[Find all Lectures from here](https://github.com/Abdelrhman-Sayed70/Data_Structure/tree/main/Lectures)<br />
+## Lecture problems with solution 
 ## Labs
 ## problem solving Sheets
 ***note : this sheets made by OSC community AinShams University on leet code platform***<br />
