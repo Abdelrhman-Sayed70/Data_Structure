@@ -1,8 +1,8 @@
 # Data_Structure
 ## Introduction
 I am working on this repo to collect DS using C++ materials like problems , source codes , materials to study and waiting your contributions on it 
-## Lectures PDfS
-[Find all Lectures PDF from here](https://github.com/Abdelrhman-Sayed70/Data_Structure/tree/main/Lectures%20PDF)<br />
+## Lectures Materials
+[Lecture Materilas](https://drive.google.com/drive/folders/1ys7b1vqzhiCk4feT5TS8FqRi9QfZv611?fbclid=IwAR2h4LjZ_T-0_k3DLqE3878kh0k4a1aRgH5_6OB0H_Cmjh3tFuXxDGLWmhE)<br />
 ## Lectures videos
 *[Adel nasim play list](https://www.youtube.com/watch?v=owCqVRbZlbg&list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)*<br /><br />
 ● Lectur 1 :
@@ -12,7 +12,8 @@ I am working on this repo to collect DS using C++ materials like problems , sour
 </ol>
 
 ## Lecture problem with solution
-## Labs PDFs
+## Labs Materials
+[Labs Materials](https://drive.google.com/drive/folders/19I5HX-ShOdYz4fRDXdUjPjTwL84tfim_?fbclid=IwAR2h4LjZ_T-0_k3DLqE3878kh0k4a1aRgH5_6OB0H_Cmjh3tFuXxDGLWmhE)
 ## Labs videos 
 ● Lab 1 :
 <ol>
