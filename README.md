@@ -11,7 +11,7 @@ I am working on this repo to collect DS using C++ materials like problems , sour
 <li><a href="https://web.microsoftstream.com/video/7035e886-381b-4586-bcaf-bf706cc123e0?channelId=17695acc-caf5-43b4-8261-14018e4f8d6f" title="pointers">Pointers</a></li>
 </ol>
 
-## Lecture problems with solution
+## Lecture problem with solution
 ## Labs PDFs
 ## Labs videos 
 ● Lab 1 :
