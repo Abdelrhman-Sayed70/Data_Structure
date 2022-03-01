@@ -9,4 +9,6 @@ I am working on this repo to collect DS using C++ materials like problems , sour
 ●[Sheet 1 on arrayes](https://leetcode.com/list/9rbyjeyv/)<br />
 ●[Sheet 2 on Stack and Queue](https://leetcode.com/list/9nmislwj/)<br />
 ●[Sheet 3 on Linked List](https://leetcode.com/list/9delnpat/)<br />
+●[Sheet 4 on binary search trees (BSTs)](https://leetcode.com/list/9dcfe4re/)<br />
+●[Sheet 5 ](https://leetcode.com/list/90w00rk6/)<br />
 ## Any announcment
