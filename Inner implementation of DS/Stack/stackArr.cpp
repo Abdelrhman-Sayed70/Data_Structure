@@ -7,7 +7,7 @@ stackArr::stackArr(void) {
 }
 int stackArr::Length()
 {
-	return current_size;
+	return num_of_values;
 }
 void stackArr::push(int val){
 	if (current_size > num_of_values) { arr[num_of_values] = val; }
