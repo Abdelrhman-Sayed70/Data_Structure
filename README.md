@@ -10,6 +10,7 @@ I am working on this repo to collect DS using C++ materials like problems , sour
 [Go to Source codes (important)](https://github.com/Abdelrhman-Sayed70/Data_Structure/tree/main/Sources)<br />
 
 ## Lecture problem with solution
+[Go to lecture problems with solution](https://github.com/Abdelrhman-Sayed70/Data_Structure/tree/main/Lectures%20problems%20with%20solution)
 ## problem solving Sheets
 ***note : this sheets made by OSC community AinShams University on leet code platform***<br />
 ●[Sheet 1 on arrayes](https://leetcode.com/list/9rbyjeyv/)<br />
