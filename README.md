@@ -1,10 +1,9 @@
 # Data_Structure
-## Introduction
-I am working on this repo to collect DS using C++ materials like problems , source codes , materials to study and waiting your contributions on it
+
 ## Lectures Materials (2024)
 [Lecture Materilas](https://drive.google.com/drive/folders/1ys7b1vqzhiCk4feT5TS8FqRi9QfZv611?fbclid=IwAR2h4LjZ_T-0_k3DLqE3878kh0k4a1aRgH5_6OB0H_Cmjh3tFuXxDGLWmhE)<br />
-## Labs Materials (2024)
-[Labs Materials](https://drive.google.com/drive/folders/19I5HX-ShOdYz4fRDXdUjPjTwL84tfim_?fbclid=IwAR2h4LjZ_T-0_k3DLqE3878kh0k4a1aRgH5_6OB0H_Cmjh3tFuXxDGLWmhE)<br />
+## Laps Materials (2024)
+[Laps Materials](https://teams.microsoft.com/_#/school/files/General?threadId=19:uj6J9aFo6UO4WxEB_DXUZ4xl8cDT_YHb-ZQYaYoWCqo1@thread.tacv2&ctx=channel&rootfolder=%252Fsites%252FDS2022%252FShared%2520Documents%252FGeneral%252Flabs)<br />
 
 ## Source codes
 [Go to Source codes (important)](https://github.com/Abdelrhman-Sayed70/Data_Structure/tree/main/Sources)<br />

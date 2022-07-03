@@ -1,0 +1,3 @@
+﻿  trial.cpp
+ArrList.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  try.vcxproj -> D:\Abdo gaber\Fourth term\DS\Lectures\DS Lecture 4 (Array Lists)\Code\ArrLists\Debug\try.exe

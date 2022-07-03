@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  rectangle.cpp
+  test.cpp
+D:\Abdo gaber\Fourth term\DS\Lectures\DS Lecture 3\Code\Class Templates\test\test.cpp(14,29): warning C4305: 'argument': truncation from 'double' to 'N'
+          with
+          [
+              N=float
+          ]
+  Generating Code...
+rectangle.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  test.vcxproj -> D:\Abdo gaber\Fourth term\DS\Lectures\DS Lecture 3\Code\Class Templates\Debug\test.exe
